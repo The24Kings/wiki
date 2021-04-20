@@ -5,7 +5,9 @@ You can thank this team for keeping the streets clean.
 ## 24Kings
 "Join the Qvolution, also Pink cute"
 
-**Roles:** Moderator  
+**Roles:** Moderator
+
+[Twitch](https://twitch.tv/24kings)
 
 ## Caeden117
 How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials
